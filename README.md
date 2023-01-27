@@ -1,3 +1,3 @@
 # Terraform
 
-Este repositorio se creo con el proposito de aprender a crear scripts en terraform empezando desde lo mas basico a hasta algo un poco mas complicado puedes subir cuanto codigo lo desees pero es importante probarlo previamente ya que no se puede subir un codigo que este incorrecto.
+Este repositorio de GitHub se enfocará en el almacenamiento de código Terraform para el despliegue de aplicaciones en Google Cloud Platform (GCP). El repositorio contendrá código para implementar recursos básicos de GCP, tales como máquinas virtuales, redes, servidores de bases de datos, balanceadores de carga, almacenamiento, etc. El código también incluirá plantillas y recursos para la configuración de aplicaciones y servicios de GCP, como App Engine, Cloud Storage, Cloud Functions y Cloud Endpoints. El repositorio contiene herramientas y guías para ayudar a los usuarios a implementar y administrar sus recursos de GCP de manera eficiente.
